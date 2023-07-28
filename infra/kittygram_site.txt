@@ -1,0 +1,5 @@
+IP: 51.250.104.0;
+name_taski: https://bauman1922.ddns.net/;
+name_kittygram: https://red-white.hopto.org/;
+login: bauman;
+password: redwhite; 
