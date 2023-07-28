@@ -1,3 +1,4 @@
+  GNU nano 6.2                                              gunicorn_kittygram.service
 [Unit]
 
 Description=gunicorn daemon
@@ -16,3 +17,4 @@ ExecStart=/home/yc-user/taski/backend/venv/bin/gunicorn --bind 0.0.0.0:8000 back
 [Install]
 
 WantedBy=multi-user.target
+
