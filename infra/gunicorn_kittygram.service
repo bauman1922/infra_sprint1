@@ -7,6 +7,8 @@ After=network.target
 
 [Service]
 
+Environment="DJANGO_DEBUG=false"
+
 User=yc-user
 
 WorkingDirectory=/home/yc-user/infra_sprint1/backend/
