@@ -1,6 +1,5 @@
 # infra_sprint1
-#### Деплой проекта Kittygram на удалённый сервер.
-#####Technology:
+####  Technology:
 - Python 3.10
 - Django3
 - Nginx
